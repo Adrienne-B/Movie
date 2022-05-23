@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!---->
+
+# Movie App
+This was a personal project I wanted to do to practice on the react software
+
+## Summary
+This is a single=page API react app. I was able to display one of my favorite childhood movies.
+
+### Software used:
+Visual Studio Code and react.js
+
+### What I learn:
+I learned that Bootstrap makes web development more quick and efficient, especially if I am under time.
+Also, I learn that I can extract certain sources such as images and/or videos from the actual site: inspect/dev tools, click on the link, and hit save.
+Further more, I realized that you must put position: absolute, fixed, relative, etc, at the top of the list under the element in css> If you dont then moving 
+an element will be a challenge to do.
+
+
+#### Random Unexpected Challenges:
+1. It would not display, even when I watched a Youtube video
+2. Hard time displaying it on Github host
+
+#### Solutions/solving the issue:
+1. I realized that the app.css didnt match what was imported in app.js page when imported
+2. I misspelled searchterm (for the search bar)
+3. I didn't export movieCard
+
+
+#### Weakness so far:
+1.	Still a beginner a react
+
