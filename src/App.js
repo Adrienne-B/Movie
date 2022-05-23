@@ -83,9 +83,6 @@ const App = () => { //Main functional component
                     <h2>No movies found</h2>
                 </div>
             )}
-
-
-
     </div>
         //We have a MovieCard.jsx or MovieCard.js so it isnt in here to where you have to repeat it
         // multiple times with differen movies
