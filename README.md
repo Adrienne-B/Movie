@@ -95,7 +95,7 @@ an element will be a challenge to do.
 2. I misspelled searchterm (for the search bar)
 3. I didn't export movieCard
 4. Had to put "predeploy" : "npm run build", AND "deploy" : "gh-pages -d build", in the script sextion of package.json
-5. Had to put https NOT https for the api link
+5. Had to put https NOT http for the api link
 6. The top part of package.json, I had to put "homepage": "https://adrienne-b.github.io/Movie",
 
 
