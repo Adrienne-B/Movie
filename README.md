@@ -94,7 +94,7 @@ an element will be a challenge to do.
 1. I realized that the app.css didnt match what was imported in app.js page when imported
 2. I misspelled searchterm (for the search bar)
 3. I didn't export movieCard
-4. Had to put "predeploy" : "npm run build", AND "deploy" : "gh-pages -d build", in the script sextion of package.json
+4. Had to put "predeploy" : "npm run build", AND "deploy" : "gh-pages -d build", in the script section of package.json
 5. Had to put https NOT http for the api link
 6. The top part of package.json, I had to put "homepage": "https://adrienne-b.github.io/Movie",
 
